@@ -6,7 +6,7 @@ e Bacharel em Sistemas de Informação graduada na UEG – Universidade Estadual
 informática e trabalho em equipe, tendo conhecimentos em Power BI, Python, ETL, Pandas e outros.
 
 ### Detalhes 8 9 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrogithub1406&show icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariaefoliveira&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos 12 13 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariaefoliveira&repo=Analise-de-Dados&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

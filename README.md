@@ -1,6 +1,9 @@
 ## Bem-vindo!👋
 
 #### Sobre Maria Eduarda
+Profissional formada em Analista de Dados em formação pela EBAC – Escola Britânica de Artes Criativas e Tecnologia, 
+e Bacharel em Sistemas de Informação graduada na UEG – Universidade Estadual de Goiás. Com experiência em suporte de 
+informática e trabalho em equipe, tendo conhecimentos em Power BI, Python, ETL, Pandas e outros.
 <!--
 **mariaefoliveira/mariaefoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

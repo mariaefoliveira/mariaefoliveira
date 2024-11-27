@@ -1,5 +1,6 @@
-## Hi there 👋
+## Bem-vindo!👋
 
+#### Sobre Maria Eduarda
 <!--
 **mariaefoliveira/mariaefoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

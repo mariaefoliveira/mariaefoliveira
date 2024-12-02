@@ -9,7 +9,11 @@ informática e trabalho em equipe, tendo conhecimentos em Power BI, Python, ETL,
 [![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariaefoliveira&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariaefoliveira&repo=Analise-de-Dados&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariaefoliveira&repo=Projeto-SQL-EBAC-Analise-de-Credito&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariaefoliveira&repo=Projeto-Ebac-Analise-telegram-usando-AWS&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariaefoliveira&repo=Tratamento-de-erros-Ebac&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariaefoliveira&repo=Scripting-Ebac&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariaefoliveira&repo=Analise-Exploratoria-Ebac&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaefoliveira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

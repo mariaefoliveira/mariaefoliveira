@@ -11,7 +11,7 @@ informática e trabalho em equipe, tendo conhecimentos em Power BI, Python, ETL,
 ### Projetos
 
 [![Readme Card](https://gh-readme-stats.vercel.app/api/pin/?username=mariaefoliveira&repo=Projeto-SQL-EBAC-Analise-de-Credito&theme=dark)](https://github.com/mariaefoliveira/Projeto-SQL-EBAC-Analise-de-Credito)
-[![Readme Card](https://gh-readme-stats.vercel.app/api/pin/?username=mariaefoliveira&repo=Projeto-Ebac-Analise-telegram-usando-AWS&theme=dark)](https://github.com/mariaefoliveira/Projeto-Ebac-Analise-telegram-usando-AWS)
+[![Readme Card](https://gh-readme-stats.vercel.app/api/pin/?username=mariaefoliveira&repo=Projeto-Ebac-Analise-telegram-usando-AWS&theme=dark&description_length=100)](https://github.com/mariaefoliveira/Projeto-Ebac-Analise-telegram-usando-AWS)
 [![Readme Card](https://gh-readme-stats.vercel.app/api/pin/?username=mariaefoliveira&repo=Tratamento-de-erros-Ebac&theme=dark)](https://github.com/mariaefoliveira/Tratamento-de-erros-Modulo-7-Ebac)
 [![Readme Card](https://gh-readme-stats.vercel.app/api/pin/?username=mariaefoliveira&repo=Scripting-Ebac&theme=dark)](https://github.com/mariaefoliveira/Scripting-Modulo-9-Ebac)
 [![Readme Card](https://gh-readme-stats.vercel.app/api/pin/?username=mariaefoliveira&repo=Analise-Exploratoria-Ebac&theme=dark)](https://github.com/mariaefoliveira/Analise-Exploratoria-Modulo-16-EBAC)

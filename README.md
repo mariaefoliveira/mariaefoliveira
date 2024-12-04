@@ -14,9 +14,7 @@ informática e trabalho em equipe, tendo conhecimentos em Power BI, Python, ETL,
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariaefoliveira&repo=Tratamento-de-erros-Ebac&theme=dark)](https://github.com/mariaefoliveira/Tratamento-de-erros-Modulo-7-Ebac)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariaefoliveira&repo=Scripting-Ebac&theme=dark)](https://github.com/mariaefoliveira/Scripting-Modulo-9-Ebac)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariaefoliveira&repo=Analise-Exploratoria-Ebac&theme=dark)](https://github.com/mariaefoliveira/Analise-Exploratoria-Modulo-16-EBAC)
-
-[![Power BI](https://via.placeholder.com/300x150.png?text=Power+BI)](https://github.com/mariaefoliveira/Analise-de-Dados/tree/main/PowerBI)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariaefoliveira&repo=PowerBI&theme=dark)](https://github.com/mariaefoliveira/PowerBI)
 
 ### Linguagens utilizadas 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaefoliveira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

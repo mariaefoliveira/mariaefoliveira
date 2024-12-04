@@ -13,7 +13,7 @@ informática e trabalho em equipe, tendo conhecimentos em Power BI, Python, ETL,
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariaefoliveira&repo=Projeto-Ebac-Analise-telegram-usando-AWS&theme=dark)](https://github.com/mariaefoliveira/Projeto-Ebac-Analise-telegram-usando-AWS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariaefoliveira&repo=Tratamento-de-erros-Ebac&theme=dark)](https://github.com/mariaefoliveira/Tratamento-de-erros-Ebac)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariaefoliveira&repo=Scripting-Ebac&theme=dark)](https://github.com/mariaefoliveira/Scripting-Ebac)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariaefoliveira&repo=Analise-Exploratoria-Ebac&theme=dark)](https://github.com/mariaefoliveira/Analise-Exploratoria-Ebac)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariaefoliveira&repo=Analise-Exploratoria-Ebac&theme=dark)](https://github.com/mariaefoliveira/Modulo-16-EBAC-Analise-Exploratoria)
 
 ### Linguagens utilizadas 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaefoliveira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

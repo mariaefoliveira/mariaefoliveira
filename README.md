@@ -47,5 +47,3 @@ Profissional de Dados com formação pela **EBAC** e Bacharelado em **Sistemas d
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white )](mailto:seu.email@exemplo.com)
 
 ---
-
-*Este README é dinâmico!* 🚀

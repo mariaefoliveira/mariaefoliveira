@@ -1,8 +1,15 @@
 # Olá, sou a Maria Eduarda! 👋
 
-### Analista de Dados | Python | SQL | Visualização | Transformando dados em insights 📊
+### Analista de Dados | Python | SQL | Visualização 📊
 
 Profissional de Dados com formação pela **EBAC** e Bacharelado em **Sistemas de Informação** (UEG). Minha experiência em suporte de informática aprimorou minhas habilidades de resolução de problemas e trabalho em equipe, essenciais para a análise de dados. Possuo conhecimento em **Python**, **SQL**, **ETL**, **Google Sheets** e desenvolvimento de **dashboards** (Looker Studio/Power BI) para transformar dados em insights acionáveis e impulsionar decisões estratégicas. Busco uma oportunidade na área de dados para aplicar meu conhecimento e contribuir com soluções baseadas em dados.
+
+---
+
+## Conecte-se Comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/maria-eduarda-falcao-de-oliveira/ )
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white )](mailto:seu.email@exemplo.com)
 
 ---
 
@@ -37,11 +44,3 @@ Profissional de Dados com formação pela **EBAC** e Bacharelado em **Sistemas d
 
 ![Maria\'s GitHub stats](https://github-readme-stats.vercel.app/api?username=mariaefoliveira&show_icons=true&theme=radical )
 
----
-
-## Conecte-se Comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/maria-eduarda-falcao-de-oliveira/ )
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white )](mailto:seu.email@exemplo.com)
-
----

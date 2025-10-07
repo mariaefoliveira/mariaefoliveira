@@ -1,3 +1,8 @@
+<p align="right">
+  <a href="https://mariaefoliveira.github.io/">
+    <img src="https://img.shields.io/badge/Portfólio-000000.svg?style=for-the-badge&logo=looker&logoColor=white" alt="Botão Portfólio">
+  </a>
+</p>
 # Olá, sou a Maria Eduarda! 👋
 
 ### Analista de Dados | Python | SQL | Visualização 📊

@@ -6,7 +6,7 @@
 
 # Olá, sou a Maria Eduarda! 👋
 
-### Analista de Dados | Python | SQL | Visualização 📊
+### Analista de Dados | Python | SQL | Dashboards 📊
 
 Profissional de Dados com formação pela **EBAC** e Bacharelado em **Sistemas de Informação** (UEG). Minha experiência em suporte de informática aprimorou minhas habilidades de resolução de problemas e trabalho em equipe, essenciais para a análise de dados. Possuo conhecimento em **Python**, **SQL**, **ETL**, **Google Sheets** e desenvolvimento de **dashboards** (Looker Studio/Power BI) para transformar dados em insights acionáveis e impulsionar decisões estratégicas. Busco uma oportunidade na área de dados para aplicar meu conhecimento e contribuir com soluções baseadas em dados.
 

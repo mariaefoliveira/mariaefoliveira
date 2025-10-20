@@ -10,7 +10,7 @@
 
 Busco minha primeira oportunidade como Analista de Dados Júnior.
 
-Sou graduada em Sistemas de Informação (UEG) e formada em Análise de Dados (EBAC), durante minha trajetória profissional, tive a oportunidade de estagiar como Suporte de Informática onde pude aprimorar competências essenciais como: comunicação, trabalho em equipe, raciocínio lógico e resolução de problemas, habilidades cruciais para análise. 
+Sou graduada em Sistemas de Informação (UEG) e formada em Análise de Dados (EBAC), durante minha trajetória profissional, tive a oportunidade de estagiar como Suporte de Informática onde pude aprimorar competências essenciais como: **comunicação, trabalho em equipe, raciocínio lógico e resolução de problemas, habilidades cruciais para análise.** 
 
 Acredito que todo dado tem uma história para contar, e é a minha paixão por leitura que me incentiva a usar a minha curiosidade para extrair insights.
 

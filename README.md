@@ -6,9 +6,13 @@
 
 # Olá, sou a Maria Eduarda! 👋
 
-### Analista de Dados | Python | SQL | Dashboards 📊
+### Analista de Dados Júnior | Python | PowerBI | SQL | Excel 📊
 
-Profissional de Dados com formação pela **EBAC** e Bacharelado em **Sistemas de Informação** (UEG). Minha experiência em suporte de informática aprimorou minhas habilidades de resolução de problemas e trabalho em equipe, essenciais para a análise de dados. Possuo conhecimento em **Python**, **SQL**, **ETL**, **Google Sheets** e desenvolvimento de **dashboards** (Looker Studio/Power BI) para transformar dados em insights acionáveis e impulsionar decisões estratégicas. Busco uma oportunidade na área de dados para aplicar meu conhecimento e contribuir com soluções baseadas em dados.
+Busco minha primeira oportunidade como Analista de Dados Júnior.
+
+Sou graduada em Sistemas de Informação (UEG) e formada em Análise de Dados (EBAC), durante minha trajetória profissional, tive a oportunidade de estagiar como Suporte de Informática onde pude aprimorar competências essenciais como: comunicação, trabalho em equipe, raciocínio lógico e resolução de problemas, habilidades cruciais para análise. 
+
+Acredito que todo dado tem uma história para contar, e é a minha paixão por leitura que me incentiva a usar a minha curiosidade para extrair insights.
 
 ---
 
